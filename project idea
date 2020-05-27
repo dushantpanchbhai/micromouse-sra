@@ -1,0 +1,21 @@
+Team Members
+1)Dushant 
+2)mithlesh
+3)Mann
+4)harsh
+
+
+Project Details:
+
+We will be making a robot  i.e  called Micromouse, which can get to the centre of a maze in the shortest possible time. A micromouse essentially comprises a drive motor or motors to move it. It will be a three wheels bot with two wheels connected to a motor and one ball caster wheel. sensors to detect the presence or absence of maze walls(position will be at front and side of bot). sensors or control logic to oversee the action of the rest and keep the vehicle 'on track' or to solve the maze.
+
+Maze Specifications:
+
+1)The maze shall comprise 16 x 16 the maze shall be 5 cm high and 1.2 cm thick. Passageways between theThe outside wall shall enclose the entire maze.The sides of the maze shall be white, and the top of the walls shall be red. The floor is consistently black. Parts from different mazes may be used.
+
+2)The start of the maze shall be located at one of the four corners. The starting square shalon three sides. The starting square orientation shall be such that when the`north', outside maze walls are on the `west' and `south'. At the centre opening which is composed of 4 unit squares. Small square posts, each 12 mm x 12 mm x 50 mm high, at the four corners of each unit are called lattice points. The maze shall be constituted such that there is at least one wall touching each lattice point, except for the destination square.
+
+3)Gaps between the walls of adjacent squares shall not be greater than 1 mm. 
+
+4)we have to build aMicromouse, which can get to the centre of a maze in the shortest possible time.
+
